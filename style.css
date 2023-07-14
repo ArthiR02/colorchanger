@@ -1,0 +1,14 @@
+button{
+    cursor:pointer;
+    background-color: blueviolet;
+    border-style:inherit;
+    /* border:5px; */
+    border:5px solid chartreuse;
+    border-radius: 50px 50px 50px 50px;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
